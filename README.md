@@ -10,7 +10,7 @@ The information that I chose for this model answers the following questions:
 4. What is the country's capital city?
 5. What subregion of the world is it found?
 6. What languages do they speak?
-7. Whether the country is landlocked or not
+7. Whether the country is landlocked or not. This returns a boolean value of True or False
 8. What side of the road do they drive in that country?
 9. What continent is the country found?
 
